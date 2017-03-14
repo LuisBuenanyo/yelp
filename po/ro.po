@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: yelp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-02-21 04:50+0000\n"
-"PO-Revision-Date: 2017-01-26 07:56+0000\n"
+"POT-Creation-Date: 2017-03-07 05:01+0000\n"
+"PO-Revision-Date: 2017-03-11 13:09+0000\n"
 "Last-Translator: georgian balan <braila222@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/endless-mobile-inc/yelp/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr ""
 #. Appears on the static navigation sidebar.
 #: data/domains/yelp-endless.xml.in:31
 msgid "Getting Started"
-msgstr ""
+msgstr "Noțiuni de bază"
 
 #. (itstool) path: msg/msgstr
 #. ID: sidebar.link.net
