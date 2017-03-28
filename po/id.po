@@ -8,13 +8,14 @@
 # dirgita <dirgitadevina@yahoo.co.id>, 2010-2011,2014
 # Mohammad DAMT <mdamt@bisnisweb.com>, 2004
 # Roddy Shuler <roddy@endlessm.com>, 2017
+# Septira Taruna <septira@endlessm.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: yelp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-07 05:01+0000\n"
-"PO-Revision-Date: 2017-02-21 21:57+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"POT-Creation-Date: 2017-03-21 03:59+0000\n"
+"PO-Revision-Date: 2017-03-23 16:36+0000\n"
+"Last-Translator: Septira Taruna <septira@endlessm.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/endless-mobile-inc/yelp/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -99,38 +100,38 @@ msgstr "Pasang <string/>"
 #: ../libyelp/yelp-bz2-decompressor.c:143
 #: ../libyelp/yelp-lzma-decompressor.c:152
 msgid "Invalid compressed data"
-msgstr "Data terkompresi tak valid"
+msgstr "Data kompress tidak valid"
 
 #: ../libyelp/yelp-bz2-decompressor.c:149
 #: ../libyelp/yelp-lzma-decompressor.c:158
 msgid "Not enough memory"
-msgstr "Tak cukup memori"
+msgstr "Memori tidak cukup"
 
 #: ../libyelp/yelp-docbook-document.c:282 ../libyelp/yelp-info-document.c:218
 #: ../libyelp/yelp-mallard-document.c:298
 #: ../libyelp/yelp-mallard-document.c:452 ../libyelp/yelp-man-document.c:252
 #, c-format
 msgid "The page ‘%s’ was not found in the document ‘%s’."
-msgstr "Halaman '%s' tak ditemukan di dokumen '%s'."
+msgstr "Halaman '%s' tidak ditemukan di dokumen '%s'."
 
 #: ../libyelp/yelp-docbook-document.c:320 ../libyelp/yelp-info-document.c:355
 #: ../libyelp/yelp-man-document.c:390
 #, c-format
 msgid "The file does not exist."
-msgstr "Berkas tidak ada."
+msgstr "File tidak ada."
 
 #: ../libyelp/yelp-docbook-document.c:330 ../libyelp/yelp-info-document.c:365
 #: ../libyelp/yelp-man-document.c:400
 #, c-format
 msgid "The file ‘%s’ does not exist."
-msgstr "Berkas '%s' tidak ada."
+msgstr "File '%s' tidak ada."
 
 #: ../libyelp/yelp-docbook-document.c:345
 #, c-format
 msgid ""
 "The file ‘%s’ could not be parsed because it is not a well-formed XML "
 "document."
-msgstr "Berkas ‘%s’ tidak dapat diuraikan karena bukan dokumen XML yang baik bentuknya."
+msgstr "File ‘%s’ tidak dapat diuraikan karena bukan format XML yang benar."
 
 #: ../libyelp/yelp-docbook-document.c:358
 #, c-format
@@ -141,13 +142,13 @@ msgstr "Berkas ‘%s’ tidak dapat diuraikan karena satu atau lebih berkas terk
 
 #: ../libyelp/yelp-docbook-document.c:788
 msgid "Unknown"
-msgstr "Tak dikenal"
+msgstr "Tidak dikenal"
 
 #: ../libyelp/yelp-docbook-document.c:850 ../libyelp/yelp-info-document.c:298
 #: ../libyelp/yelp-man-document.c:332
 #, c-format
 msgid "The requested page was not found in the document ‘%s’."
-msgstr "Halaman yang diminta tak ditemukan di dokumen '%s'."
+msgstr "Halaman yang diminta tidak ditemukan di dokumen '%s'."
 
 #: ../libyelp/yelp-document.c:278
 msgid "Indexed"
